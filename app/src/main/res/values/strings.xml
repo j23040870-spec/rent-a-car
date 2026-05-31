@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rent a Car</string>
+    <string name="credit_default">Credit: 500</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="sort">Sort</string>
+    <string name="search_hint">Search by name or model</string>
+    <string name="favorites">Favorites</string>
+    <string name="car_image">Car image</string>
+    <string name="rent">Rent</string>
+    <string name="favorite">Favorite</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="save_booking">Save Booking</string>
+    <string name="cancel_booking">Cancel Booking</string>
+</resources>

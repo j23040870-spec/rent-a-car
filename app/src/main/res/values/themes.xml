@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RentACar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.RentACar" parent="Base.Theme.RentACar" />
+
+    <!-- Credit balance text style (used in header) -->
+    <style name="BalanceText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="CarDetailText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <!-- Section header (like "Favorites") -->
+    <style name="SectionHeader" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+</resources>
